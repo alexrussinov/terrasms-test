@@ -17,7 +17,7 @@ define('DB_CHARSET', 'utf8');
 
 
 
-$db ='mysql:host='.DB_HOST.'dbname='.DB_NAME;
+$db ='mysql:host='.DB_HOST.';dbname='.DB_NAME;
 $user = DB_USER;
 $pass = DB_PASSWORD;
 

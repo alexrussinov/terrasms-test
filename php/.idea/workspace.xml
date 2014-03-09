@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e65250c9-c321-410b-9609-8dc890437a2e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/createdatabase.php" afterPath="$PROJECT_DIR$/createdatabase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="terra_test.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/terra_test" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394210000107" ignored="false" />
+    <file path="/terra_test" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394387544085" ignored="false" />
     <file path="/index.html" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394386391860" ignored="false" />
     <file path="/test.php" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394373012533" ignored="false" />
     <file path="/app.js" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394363778389" ignored="false" />
@@ -53,7 +54,16 @@
       <file leaf-file-name="createdatabase.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/createdatabase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="19" selection-start="562" selection-end="562" vertical-scroll-proportion="0.5113636">
+            <state line="19" column="29" selection-start="509" selection-end="509" vertical-scroll-proportion="0.369863">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="terra_test" pinned="false" current="false" current-in-tab="false">
+        <entry file="dbDummy://db-console:/d556cd4/6258b3df-7a95-4532-b9dc-8e00dd2c1016/">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="0" selection-start="1423" selection-end="1431" vertical-scroll-proportion="-6.793103">
               <folding />
             </state>
           </provider>
@@ -131,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="dbtable:/1dcc1dd6/6258b3df-7a95-4532-b9dc-8e00dd2c1016/terra_test..Students" />
         <option value="dbtable:/1dcc1dd6/6258b3df-7a95-4532-b9dc-8e00dd2c1016/terra_test..Likes" />
         <option value="dbtable:/1dcc1dd6/6258b3df-7a95-4532-b9dc-8e00dd2c1016/terra_test..News" />
         <option value="db-console:/1dcc1dd6/6258b3df-7a95-4532-b9dc-8e00dd2c1016/" />
@@ -146,6 +155,7 @@
         <option value="$PROJECT_DIR$/generatenews.php" />
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="db-console:/d556cd4/6258b3df-7a95-4532-b9dc-8e00dd2c1016/" />
         <option value="$PROJECT_DIR$/createdatabase.php" />
       </list>
     </option>
@@ -274,17 +284,17 @@
     <frame x="-2" y="0" width="1370" height="745" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33722872" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.6622296" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32852808" sideWeight="0.6627713" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27921093" sideWeight="0.6622296" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27921093" sideWeight="0.6627713" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33777037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -357,13 +367,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test-memcached.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="43" selection-end="101" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="34" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
@@ -458,9 +461,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="dbDummy://db-console:/d556cd4/6258b3df-7a95-4532-b9dc-8e00dd2c1016/">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="0" selection-start="1423" selection-end="1431" vertical-scroll-proportion="-6.793103">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/createdatabase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="19" selection-start="562" selection-end="562" vertical-scroll-proportion="0.5113636">
+        <state line="19" column="29" selection-start="509" selection-end="509" vertical-scroll-proportion="0.369863">
           <folding />
         </state>
       </provider>

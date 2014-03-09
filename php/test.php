@@ -172,44 +172,51 @@ function generateResult($mc){
  *
  */
 function fetchLastNewsJson($pdo){
-    /*create memcached object and connect to the server*/
+    /**
+     * We may cache query result using memcached for example to speed up page load
+     * I comment this version with memcached to deploy to openshift for test purposes, because of the problems with
+     * memcached instalation on openshift platform.
+     */
 
 
-    $mc = new Memcached();
-    $mc->addServer("localhost", 11211);
-
-
-
-    if(!empty($last_news)){
-       generateResult($mc);
-    }
-    else{
-        try{
-            $stmt = $pdo->prepare('select * from News ORDER BY ID DESC LIMIT 1,3');
-            $stmt->execute();
-            $result = $stmt->fetchAll(PDO::FETCH_CLASS, "News");
-            $mc->set('last_nws',$result);
-            generateResult($mc);
-
-        }
-        catch(Exception $e){
-            print "Error!: " . $e->getMessage() . "<br/>";
-            die();
-        }
-    }
-
- /* we can uncomment and use this block to compare results with and without memcached */
-
-//    try{
-//        $stmt = $pdo->prepare('select * from News ORDER BY ID DESC LIMIT 1,3');
-//        $stmt->execute();
-//        $result = $stmt->fetchAll(PDO::FETCH_CLASS, "News");
-//        echo json_encode($result);
+//    $mc = new Memcached();
+//    $mc->addServer("localhost", 11211);
+//
+//
+//
+//    if(!empty($last_news)){
+//       generateResult($mc);
 //    }
-//    catch(Exception $e){
-//        print "Error!: " . $e->getMessage() . "<br/>";
-//        die();
+//    else{
+//        try{
+//            $stmt = $pdo->prepare('select * from News ORDER BY ID DESC LIMIT 1,3');
+//            $stmt->execute();
+//            $result = $stmt->fetchAll(PDO::FETCH_CLASS, "News");
+//            $mc->set('last_nws',$result);
+//            generateResult($mc);
+//
+//        }
+//        catch(Exception $e){
+//            print "Error!: " . $e->getMessage() . "<br/>";
+//            die();
+//        }
 //    }
+
+    /**
+     * This block of code only for test deployment purposes!!!
+     * We need to use version with caching for production with heavy database !!!
+     */
+
+    try{
+        $stmt = $pdo->prepare('select * from News ORDER BY ID DESC LIMIT 1,3');
+        $stmt->execute();
+        $result = $stmt->fetchAll(PDO::FETCH_CLASS, "News");
+        echo json_encode($result);
+    }
+    catch(Exception $e){
+        print "Error!: " . $e->getMessage() . "<br/>";
+        die();
+    }
 
 
 }

@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e65250c9-c321-410b-9609-8dc890437a2e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/createdatabase.php" afterPath="$PROJECT_DIR$/createdatabase.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.php" afterPath="$PROJECT_DIR$/test.php" />
     </list>
     <ignored path="terra_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,10 +13,10 @@
     <file path="/index2.html" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394359730749" ignored="false" />
     <file path="/social.html" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394364633604" ignored="false" />
     <file path="/news.html" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394363826317" ignored="false" />
-    <file path="/createdatabase.php" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394382821589" ignored="false" />
+    <file path="/createdatabase.php" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394386808245" ignored="false" />
     <file path="/generatenews.php" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394383012246" ignored="false" />
     <file path="/Dummy.txt" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394385289308" ignored="false" />
-    <file path="db-console:/cf73038d/6258b3df-7a95-4532-b9dc-8e00dd2c1016/" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394385435595" ignored="false" />
+    <file path="db-console:/cf73038d/6258b3df-7a95-4532-b9dc-8e00dd2c1016/" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394386736592" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createdatabase.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="createdatabase.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/createdatabase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="22" selection-start="1198" selection-end="1198" vertical-scroll-proportion="-28.75">
+            <state line="10" column="16" selection-start="375" selection-end="375" vertical-scroll-proportion="0.2840909">
               <folding />
             </state>
           </provider>
@@ -70,10 +68,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="46" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.54545456">
+            <state line="30" column="46" selection-start="1023" selection-end="1023" vertical-scroll-proportion="-12.0">
               <folding />
             </state>
           </provider>
@@ -147,8 +145,8 @@
         <option value="db-console:/cf73038d/6258b3df-7a95-4532-b9dc-8e00dd2c1016/" />
         <option value="$PROJECT_DIR$/generatenews.php" />
         <option value="$PROJECT_DIR$/test.php" />
-        <option value="$PROJECT_DIR$/createdatabase.php" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/createdatabase.php" />
       </list>
     </option>
   </component>
@@ -446,13 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/createdatabase.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="22" selection-start="1198" selection-end="1198" vertical-scroll-proportion="-28.75">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="22" selection-start="615" selection-end="615" vertical-scroll-proportion="-5.625">
@@ -462,7 +453,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="46" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.54545456">
+        <state line="30" column="46" selection-start="1023" selection-end="1023" vertical-scroll-proportion="-12.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createdatabase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="16" selection-start="375" selection-end="375" vertical-scroll-proportion="0.2840909">
           <folding />
         </state>
       </provider>

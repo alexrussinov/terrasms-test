@@ -2,45 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65250c9-c321-410b-9609-8dc890437a2e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql-connector-java-5.1.26-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/createdatabase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generatenews.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysql-connector-license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/news.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/social.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/terra_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-memcached.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/createdatabase.php" afterPath="$PROJECT_DIR$/createdatabase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.php" afterPath="$PROJECT_DIR$/test.php" />
     </list>
     <ignored path="terra_test.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/terra_test" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394210000107" ignored="false" />
-    <file path="/index.html" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394363926517" ignored="false" />
+    <file path="/index.html" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394386391860" ignored="false" />
     <file path="/test.php" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394373012533" ignored="false" />
     <file path="/app.js" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394363778389" ignored="false" />
     <file path="/index2.html" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394359730749" ignored="false" />
@@ -74,10 +43,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="23" selection-start="409" selection-end="409" vertical-scroll-proportion="0.53977275">
+            <state line="45" column="22" selection-start="615" selection-end="615" vertical-scroll-proportion="-5.625">
               <folding />
             </state>
           </provider>
@@ -86,7 +55,7 @@
       <file leaf-file-name="createdatabase.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/createdatabase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="23" selection-start="6" selection-end="140" vertical-scroll-proportion="0.0">
+            <state line="46" column="22" selection-start="1198" selection-end="1198" vertical-scroll-proportion="-28.75">
               <folding />
             </state>
           </provider>
@@ -101,10 +70,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="34" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.0">
+            <state line="30" column="46" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.54545456">
               <folding />
             </state>
           </provider>
@@ -171,15 +140,15 @@
         <option value="$PROJECT_DIR$/javascript/angular-route.js" />
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/pages/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/javascript/app.js" />
         <option value="$PROJECT_DIR$/pages/news.html" />
         <option value="$PROJECT_DIR$/pages/social.html" />
         <option value="$PROJECT_DIR$/test-memcashed.php" />
         <option value="db-console:/cf73038d/6258b3df-7a95-4532-b9dc-8e00dd2c1016/" />
-        <option value="$PROJECT_DIR$/createdatabase.php" />
         <option value="$PROJECT_DIR$/generatenews.php" />
         <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/createdatabase.php" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -305,13 +274,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="1370" height="745" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.6622296" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27921093" sideWeight="0.6622296" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27921093" sideWeight="0.6622296" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -449,13 +418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="34" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/social.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="28" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
@@ -486,14 +448,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/createdatabase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="23" selection-start="6" selection-end="140" vertical-scroll-proportion="0.0">
+        <state line="46" column="22" selection-start="1198" selection-end="1198" vertical-scroll-proportion="-28.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="23" selection-start="409" selection-end="409" vertical-scroll-proportion="0.53977275">
+        <state line="45" column="22" selection-start="615" selection-end="615" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="46" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.54545456">
           <folding />
         </state>
       </provider>

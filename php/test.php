@@ -43,7 +43,7 @@ $pdo = new PDO($db,$user,$pass,$options);
 
 }
 catch (PDOException $e) {
-    print "Error!: " . $e->getMessage() . "<br/>";
+    print "Connection Error!: " . $e->getMessage() . "<br/>";
     die();
 }
 

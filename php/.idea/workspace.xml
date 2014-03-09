@@ -13,7 +13,7 @@
     <file path="/index2.html" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394359730749" ignored="false" />
     <file path="/social.html" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394364633604" ignored="false" />
     <file path="/news.html" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394363826317" ignored="false" />
-    <file path="/createdatabase.php" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394386808245" ignored="false" />
+    <file path="/createdatabase.php" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394387382022" ignored="false" />
     <file path="/generatenews.php" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394383012246" ignored="false" />
     <file path="/Dummy.txt" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394385289308" ignored="false" />
     <file path="db-console:/cf73038d/6258b3df-7a95-4532-b9dc-8e00dd2c1016/" changelist="e65250c9-c321-410b-9609-8dc890437a2e" time="1394386736592" ignored="false" />
@@ -53,7 +53,7 @@
       <file leaf-file-name="createdatabase.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/createdatabase.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
+            <state line="21" column="19" selection-start="562" selection-end="562" vertical-scroll-proportion="0.5113636">
               <folding />
             </state>
           </provider>
@@ -460,7 +460,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/createdatabase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0">
+        <state line="21" column="19" selection-start="562" selection-end="562" vertical-scroll-proportion="0.5113636">
           <folding />
         </state>
       </provider>

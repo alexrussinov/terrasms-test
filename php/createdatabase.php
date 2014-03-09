@@ -17,9 +17,9 @@ define('DB_CHARSET', 'utf8');
 
 
 
-$db ='mysql:host='.DB_HOST.'.dbname='.DB_NAME.';port='.DB_PORT;
+$db ='mysql:host='.DB_HOST.'dbname='.DB_NAME;
 $user = DB_USER;
-$pass = DB_PASS;
+$pass = DB_PASSWORD;
 
 // Connection options
 $options = array(

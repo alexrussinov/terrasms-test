@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65250c9-c321-410b-9609-8dc890437a2e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.php" afterPath="$PROJECT_DIR$/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generatenews.php" afterPath="$PROJECT_DIR$/generatenews.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="terra_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,10 +42,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="20" selection-start="833" selection-end="833" vertical-scroll-proportion="0.76993865">
+            <state line="49" column="20" selection-start="833" selection-end="833" vertical-scroll-proportion="-30.625">
               <folding />
             </state>
           </provider>
@@ -62,16 +63,18 @@
       <file leaf-file-name="generatenews.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generatenews.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="14" selection-start="955" selection-end="955" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="27" column="20" selection-start="631" selection-end="631" vertical-scroll-proportion="-9.375">
+              <folding>
+                <element signature="e#6#72#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="46" selection-start="1023" selection-end="1023" vertical-scroll-proportion="-12.0">
+            <state line="33" column="52" selection-start="1194" selection-end="1194" vertical-scroll-proportion="0.5153374">
               <folding />
             </state>
           </provider>
@@ -142,11 +145,11 @@
         <option value="$PROJECT_DIR$/pages/social.html" />
         <option value="$PROJECT_DIR$/test-memcashed.php" />
         <option value="db-console:/cf73038d/6258b3df-7a95-4532-b9dc-8e00dd2c1016/" />
-        <option value="$PROJECT_DIR$/generatenews.php" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="db-console:/d556cd4/6258b3df-7a95-4532-b9dc-8e00dd2c1016/" />
         <option value="$PROJECT_DIR$/createdatabase.php" />
         <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/generatenews.php" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -430,23 +433,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generatenews.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="14" selection-start="955" selection-end="955" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="46" selection-start="1023" selection-end="1023" vertical-scroll-proportion="-12.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://db-console:/d556cd4/6258b3df-7a95-4532-b9dc-8e00dd2c1016/">
       <provider selected="true" editor-type-id="text-editor">
         <state line="63" column="0" selection-start="1423" selection-end="1431" vertical-scroll-proportion="-6.793103">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="20" selection-start="833" selection-end="833" vertical-scroll-proportion="-30.625">
           <folding />
         </state>
       </provider>
@@ -458,9 +454,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
+    <entry file="file://$PROJECT_DIR$/generatenews.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="20" selection-start="833" selection-end="833" vertical-scroll-proportion="0.76993865">
+        <state line="27" column="20" selection-start="631" selection-end="631" vertical-scroll-proportion="-9.375">
+          <folding>
+            <element signature="e#6#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="52" selection-start="1194" selection-end="1194" vertical-scroll-proportion="0.5153374">
           <folding />
         </state>
       </provider>
